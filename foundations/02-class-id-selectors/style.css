@@ -1,0 +1,20 @@
+.classy1{
+    background-color: lightcoral;
+}
+
+#id2 {
+    color: blue;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.classy3{
+    background-color: lightcoral;
+    font-size: larger;
+}
+
+#id4{
+    background-color: greenyellow;
+    font-size: larger;
+    font-weight: 900;
+}
